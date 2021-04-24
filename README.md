@@ -3,10 +3,15 @@
 Semestre 1
 LECTURES
 semestre_1 | PPJ | recording
+
 https://pejot-my.sharepoint.com/:f:/g/personal/werner_pjwstk_edu_pl/EgNDFtC9I4dIofqeNwrqb3YByHpb2UdWDxO9Q9t1Pblqwg?e=7tKZXb
+
 semestre_1 | TAK | recording
+
 https://youtube.com/playlist?list=PLtobQVu9L8PwEpaJfsfE1z_8vgJZCdJAF
+
 semestre_1 | Random | recording
+
 https://youtube.com/playlist?list=PLtobQVu9L8PzVX-9GkCrX4lS-bw74tEnP
 
 Semestre 2
