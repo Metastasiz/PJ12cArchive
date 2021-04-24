@@ -16,6 +16,7 @@ semestre_1 | Random | recording
 
 https://youtube.com/playlist?list=PLtobQVu9L8PzVX-9GkCrX4lS-bw74tEnP
 
+=
 
 Semestre 2
 
