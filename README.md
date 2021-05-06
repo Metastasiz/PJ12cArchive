@@ -78,24 +78,3 @@ semestre_2 | GUI | recording (expirable) – oldest top
 8https://web.microsoftstream.com/video/24dcbaae-a4cd-445d-b2e2-dd46b009fcc0
 
 (SOP, MAD, and RBD are not available – not allowed)
-
-TUTORIALS
-
-
-semestre_2 | SOP_tut | recording
-
-https://youtube.com/playlist?list=PLtobQVu9L8Py4SON1SDU0iMtyylHiYfgn
-
-semestre_2 | ALG_tut | recording
-
-https://youtube.com/playlist?list=PLtobQVu9L8Pyl13hcAt7HE4WpTZvAH-vg
-
-semestre_2 | MAD_tut | recording
-
-https://youtube.com/playlist?list=PLtobQVu9L8Pzdw4SLOE3daO2X8dGH8sA7
-
-semestre_2 | RBD_tut | recording
-
-https://youtube.com/playlist?list=PLtobQVu9L8Pw-Mt63Hw-bGj05cwcf4A3M
-
-(GUI, PJC, and RBD are not available – could ask)
